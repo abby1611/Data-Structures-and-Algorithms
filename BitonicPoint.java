@@ -1,4 +1,4 @@
-class Solution
+class BitonicPoint
 {
     public int findMaximumUtil(int arr[], int low, int high)
     {
